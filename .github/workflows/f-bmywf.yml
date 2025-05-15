@@ -1,7 +1,7 @@
 name: MBf
 on: 
-  #push
-   workflow_dispatch   
+  push
+   #workflow_dispatch   
 
 
 env:
